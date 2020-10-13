@@ -1,4 +1,4 @@
-# CS-ImageTag
+# Base Codespaces Template Image- Using and Image Tag
 
 Codespaces Starter using a .devcontainer file with an image tag vs. a docker build process
  
